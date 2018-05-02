@@ -14,3 +14,8 @@ this code is very horrible, uses bad programming practices and some dodgy error 
 * follow the followers
 * rate limit handling
 * error handling
+
+
+# warning!
+
+this could get you banned. don't use it on your personal twitter account
